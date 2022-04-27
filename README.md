@@ -1,4 +1,4 @@
-# Final Project - Linux-Commands-and-Shell-Scripting
+# Final Project - Linux_Commands_and_Shell_Scripting
 
 **Scenario**
 
